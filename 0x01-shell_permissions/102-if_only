@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -hR betty:guillaume
+sudo chown -hR betty:guillaume 
